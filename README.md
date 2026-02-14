@@ -45,6 +45,7 @@ It includes a **React frontend**, a **Node.js + Express backend**, a **MongoDB d
 ---
 
 ## Project Structure
+QuickTask/
 │
 ├── frontend/ # React.js application
 ├── backend/ # Node.js + Express API
